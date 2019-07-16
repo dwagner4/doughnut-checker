@@ -1,0 +1,22 @@
+{
+  "name": "doughnut-checker",
+  "version": "0.1.0",
+  "description": "A checker board made by extending LitElement",
+  "main": "doughnut-checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwagner4/doughnut-checker.git"
+  },
+  "keywords": [
+    "LitElement"
+  ],
+  "author": "Dean Wagner dean@dfwagners.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwagner4/doughnut-checker/issues"
+  },
+  "homepage": "https://github.com/dwagner4/doughnut-checker#readme"
+}
