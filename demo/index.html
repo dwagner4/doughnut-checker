@@ -12,5 +12,10 @@
   <div id="demo"></div>
 
   <script type="module" src="index.js"></script>
+  <script>
+    document.addEventListener('spclk', function (e) {
+      alert("row = " + e.detail.row + ", col = " + e.detail.col)
+    })
+  </script>
 </body>
 </html>
